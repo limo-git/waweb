@@ -1,0 +1,3 @@
+.onlcick = function() {
+    
+}
